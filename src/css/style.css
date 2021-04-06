@@ -405,3 +405,6 @@ form.sign-in-form {
   height: 100%;
   margin: 10px;
 }
+.icon-clk {
+  cursor: pointer;
+}
