@@ -224,8 +224,8 @@ form.sign-in-form {
   height: 41px;
   font-weight: 600;
   font-size: 0.8rem;
+  transition: 0.4s;
 }
-
 .right-panel .image,
 .right-panel .content {
   transform: translateX(800px);
@@ -397,4 +397,11 @@ form.sign-in-form {
     bottom: 28%;
     left: 50%;
   }
+}
+.response {
+  width: 100%;
+  max-width: 200px;
+  max-height: 120px;
+  height: 100%;
+  margin: 10px;
 }
